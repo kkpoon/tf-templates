@@ -1,2 +1,3 @@
 # tf-templates
-my terraform templates
+
+This is my collection of terraform templates.
